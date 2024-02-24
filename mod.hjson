@@ -2,16 +2,16 @@
 displayName: "Java Mod Template"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "test"
 
 #your name
-author: "You"
+author: "Water white"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "test.TestMod"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "Testing chamber for my mod, not intended for general use and I will not be balancng this."
 
 #the mod version
 version: 1.0
